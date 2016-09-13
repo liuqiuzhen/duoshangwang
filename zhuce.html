@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="css/common.css" />
+		<link rel="stylesheet" href="css/zhuce.css" />
+		<!--<script type="text/javascript" src="js/jquery.metadata.js" ></script>-->
+	</head>
+	<body>
+		<div class="top-nav">
+			<div class="top-n-center">
+				<div class="top-n-left">
+					<a href="shouye.html" class="top-n-frst" style="background: url(img/shouyw.jpg) no-repeat left;">多商网首页</a>
+					<span>您好，欢迎来到多商网!</span>
+					<span>[<a href="login.html">请登录</a>]</span>
+					<span>[<a href="#">免费注册</a>]</span>
+				</div>
+				<div class="top-n-right">
+					<a href="#" style="background: url(img/car.png) no-repeat left;padding:0 8px 0 23px">购物车</a>
+					<a href="#" style="background: url(img/phone.png) no-repeat left;padding: 0 8px 0 18px;">多商APP</a>
+					<a href="#" style="background: url(img/phone.png) no-repeat left;padding: 0 8px 0 18px;">手机多商</a>
+					<a href="#" style="background: url(img/help.png) no-repeat left;padding:0 0px 0 25px">帮助中心</a>
+				</div>
+			</div>
+		</div>
+		<!--logo搜索区-->
+		<div class="logo">
+			<h1><img src="img/edo_ico_03.jpg"/></h1>
+		</div>
+		<div class="register">
+			<ul class="buzou">
+				<li class="active"><span>1</span><strong>使用邮箱/手机注册</strong></li>
+				<li><span>2</span><strong>设置用户信息</strong></li>
+				<li><span>3</span><strong>注册成功</strong></li>
+			</ul>
+			<!--注册填写手机号-->
+			<div>
+				<div class="buzoul zhu">
+					<form id="regForm">
+					    <fieldset>
+					        <div class="item">
+					            <label for="username" class="item-label" >手机/邮箱:</label>
+					            <input type="text" id="phone" name="phone" class="item-text" placeholder="填写手机或邮箱地址"
+					            autocomplete="off" tip="填写正确的邮箱地址" valid="通过验证"/>
+					        </div>
+					        <div class="item psw">
+					            <label for="password" class="item-label">密码:</label>
+					            <input type="password" id="password" name="password" class="item-text" placeholder="设置密码"
+					            tip="长度为6-16个字符">
+					            <a href="javascript:0;" class="pswshow" style="background-position: -30px -90px;"></a>
+					        </div>
+					        <div class="item">
+					            <label for="repassword" class="item-label">确认密码:</label>
+					            <input type="password" name="repassword" id="repassword" class="item-text" placeholder="设置确认密码">
+					        </div>
+					      	<div class="item">
+					      		<label for="yanzhengma" class="item-label">验证码:</label>
+					            <input type="text" placeholder="验证码" class="item-text yanzheng" name="yanzhengma" id="yanzhengma"/>
+								<input type="text" id="color2" value="" />
+								<div id="yanzhengma" class="color item-text shuzi">
+						      		<span class="one">1</span>
+						      		<span class="one">2</span>
+						      		<span class="one">3</span>
+						      		<span class="one">4</span>
+						      	</div>
+						      	
+						      <i class="iconfont changeyzm">&#xe61c;</i>
+					      	</div>
+					      	
+					      <div class="item">
+					      		<label for="duanxinyanzheng" class="item-label">短信验证码:</label>
+					            <input type="text" placeholder="短信验证码" class="item-text yanzheng"/>
+								<a href="#" class="dxyz">获取短信验证码</a>
+					      	</div>
+					      	<div class="item tongyi">
+					      		<label class="item-label" for="yanzheng"></label>
+					      		<input type="checkbox" name="check" id="check" checked="checked"/><strong>已阅读并同意 </strong>
+								<span>《多商分销系统用户服务协议》</span>
+					      	</div>
+					        <div class="item tijiao">
+					        	<input type="button" value="立即注册，领取淘宝会员卷" class="lqhy" id="tijiao"/>
+					        </div>
+					    </fieldset>
+					</form>
+				</div>
+				
+			<!--填写用户信息-->	
+				<div class="buzou2 zhu">
+					<form id="regForm2">
+					    <fieldset>
+					    	<div class="item">
+					    		<label for="username" class="item-label" >用户名:</label>
+					            <input type="text" id="username" name="username" class="item-text" placeholder="用户名"
+					            autocomplete="off" tip="填写信息" valid="通过验证"/>
+					    	</div>
+					    	<div class="item">
+					    		 <label for="email" class="item-label" >邮箱:</label>
+					            <input type="text" id="email" name="email" class="item-text" placeholder="邮箱"
+					            autocomplete="off" tip="填写信息" valid="通过验证"/>
+					    	</div>
+					    	<div class="item shenfen">
+					    		<label for="Identity" class="item-label" >用户身份：</label>
+					    		
+					    		<p>请选择您的身份（可多选）</p>
+					            <span><input type="checkbox"  name="favorite" />我是淘宝店主</span>
+					            <span><input type="checkbox" name="favorite" />我想开微店</span>
+					            <span><input type="checkbox" name="favorite" />我是线下专营店主</span>
+					    	</div>
+					    	<div class="item">
+					    		<label for="store" class="item-label" >网店:</label>
+					           	<input type="text" id="store" name="store" class="item-text" placeholder="填写网店地址，免费网店诊断"
+					            autocomplete="off" tip="可选填" valid="通过验证"/>
+					    	</div>
+					    	<div class="item">
+					    		<label for="yaoqingma" class="item-label" >邀请码:</label>
+					           	<input type="text" id="yaoqingma" name="yaoqingma" class="item-text" placeholder="没有请留空"
+					            autocomplete="off" tip="可选填" valid="通过验证"/>
+					    	</div>
+					    	 <div class="item tijiao">
+					        	<input type="button" value="完善注册，领取淘宝课程卷" class="lqhy user" id="jiaojiao"/>
+					        </div>
+						</fieldset>
+					</form>
+				</div>
+				
+				<!--注册成功-->
+				<div class="success zhu">	
+				</div>
+			</div>
+		</div>
+			<!--底部链接等-->
+       	<div class="footer">
+       		
+       		<ul class="f-nav">
+       			<li><a href="#"><img src="img/foo1.png"/></a></li>
+       			<li><a href="#"><img src="img/foo2.png"/></a></li>
+       			<li><a href="#"><img src="img/foo5.png"/></a></li>
+       			<li style="border: 0;"><a href="#"><img src="img/foo4.png"/></a></li>
+       		</ul>
+       		
+       		<div class="footer-main-nav">
+       			<div class="f-center">
+       				<div class="clearfix">
+				      <dl class="item_1">
+				        <dt>关于多商网</dt>
+				        <dd>
+				          <ul>
+				            <li> <a href="#" target="_blank" title="了解多商网">了解多商网</a> </li>
+				            <li> <a href="#" target="_blank" title="加入我们">加入我们</a> </li>
+				            <li> <a href="#" target="_blank" title="联系我们">联系我们</a> </li>
+				            <li> <a href="#" target="_blank" title="分销商常见问题">常见问题</a> </li>
+				          </ul>
+				        </dd>
+				      </dl>
+				      <dl class="item_2">
+				        <dt>分销商帮助</dt>
+				        <dd>
+				          <ul>
+				            <li> <a href="#" target="_blank" title="如何成为分销商">如何成为分销商</a> </li>
+							<li> <a href="#" target="_blank" title="入驻多商">入驻多商</a> </li>
+				            <li> <a href="#" target="_blank" title="批发、进货流程">批发、进货流程</a> </li>
+				            <li> <a href="#" target="_blank" title="分销商分销产品流程">分销产品流程</a> </li>
+				          </ul>
+				        </dd>
+				      </dl>
+				      <dl class="item_3">
+				        <dt>成长路径</dt>
+				        <dd>
+				          <ul>
+				            <li> <a href="#" rel="nofollow" target="_blank" title="分销商成长路径">分销商成长路径</a> </li>
+				            <li> <a href="#" target="_blank" title="转介绍福利">转介绍福利</a> </li>
+				            <li> <a href="#" target="_blank" title="邀请有奖">邀请有奖</a> </li>
+				          </ul>
+				        </dd>
+				      </dl>
+				      <dl class="item_4">
+				        <dt>报活动</dt>
+				        <dd>
+				          <ul>
+				            <li> <a href="#" target="_blank" title="申报活动">申报活动</a> </li>
+				            <li> <a href="#" target="_blank" title="活动产品">活动产品</a> </li>
+				          </ul>
+				        </dd>
+				      </dl>
+				      <dl class="item_5">
+				        <dt>供应商帮助</dt>
+				        <dd>
+				          <ul>
+				            <li> <a href="#" target="_blank" title="如何成为供应商">如何成为供应商</a> </li>
+				            <li> <a href="#" target="_blank" title="供应商点击入驻">点击入驻多商</a> </li>
+				            <li> <a href="#" target="_blank" title="供应商产品上架流程">产品上架流程</a> </li>
+				          </ul>
+				        </dd>
+				      </dl>
+				      
+				      <dl class="item_6">
+				        <dt>帮助中心</dt>
+				        <dd>
+				          <ul>
+				            <li> <a href="#" target="_blank" title="找回密码">找回密码</a> </li>
+				            <li> <a href="#" target="_blank" title="常见问题">常见问题</a> </li>
+				            <li> <a href="#" target="_blank" title="多商学院">多商学院</a> </li>
+				          </ul>
+				        </dd>
+				      </dl>
+				      <dl class="item_7">
+				      	<img src="img/erweima.png"/>
+				      </dl>	  
+				    </div>
+       			</div>
+       		</div>
+       		
+       		
+       		<div class="footer-bottom">
+       			<p><img src="img/foot.png" /></p>
+       			<p class="lian"><a href="#">关于我们</a>|<a href="#">用户帮助</a>|<a href="#">法律声明</a>|<a href="#">联系我们</a>|<a href="#">友情链接</a></p>
+       			<p> 趋势动力旗下广州友商信息科技有限公司版权所有©2005-2016   粤ICP备11099332号 站长统计</p>
+       			<p>多商网-珠三角网店货源批发市场，支持淘宝代销、网店代理，免费提供一件代发</p>
+       			<p>地址: 广州市中山大道89号天河软件园华景园区B栋西梯五楼  电话：400-616-3518</p>
+       		</div>
+       	</div>
+       	
+       	<!--自动弹出的小图片-->
+       	
+       	<div class="box">
+       		<span>&Chi;</span>
+       		<img src="img/575797d49f067.png"/>
+       	</div>
+       	
+       	<!--qq在线咨询-->
+       	<div class="qqzixun" id="zixun">
+       		<div class="butt">在线客服<br /><span>》</span></div>
+       		<div class="kefu">
+       			<ul>
+       				<p>在线客服</p>
+	       			<li class="shouhou"><a href="#">售后服务<img src="img/ff.png"/></a></li>
+	       			<li class="shouhou"><a href="#">活动支持<img src="img/ff.png"/></a></li>
+	       			<li class="shouhou"><a href="#">投诉建议<img src="img/ff.png"/></a></li>
+       			</ul>
+       			<li class="liuyan"><a href="#"></a></li>
+       		</div>
+       		<div class="weixin"></div>
+       		<div class="pho"></div>
+       	</div>
+       	
+       	<script type="text/javascript" src="js/jquery-1.11.0.js" ></script>
+       	<script type="text/javascript" src="js/common.js" ></script>	
+		
+		<script type="text/javascript" src="js/zhuce.js" ></script>
+		
+		<script type="text/javascript" src="js/jquery.validate-1.13.1.js" ></script>
+		<script type="text/javascript" src="js/additional-methods.js" ></script>
+		<script>
+	/*******************************插件新功能-设置插件validator的默认参数*****************************************/
+$.validator.setDefaults({
+    /*关闭键盘输入时的实时校验*/
+    onkeyup: null,
+    /*添加校验成功后的执行函数--修改提示内容，并为正确提示信息添加新的样式(默认是valid)*/
+    success: function(label){
+        /*label的默认正确样式为valid，需要通过validClass来重置，否则这里添加的其他样式不能被清除*/
+        label.text('').addClass('valid');
+    },
+    /*重写校验元素获得焦点后的执行函数--增加[1.光标移入元素时的帮助提示,2.校验元素的高亮显示]两个功能点*/
+    onfocusin: function( element ) {
+        this.lastActive = element;
+        
+        /*1.帮助提示功能*/
+        this.addWrapper(this.errorsFor(element)).hide();
+        var tip = $(element).attr('tip');
+        if(tip && $(element).parent().children(".tip").length === 0){
+            $(element).parent().append("<label class='tip'>" + tip + "</label>");
+        }
+        
+        /*2.校验元素的高亮显示*/
+        $(element).addClass('highlight');
+
+        // Hide error label and remove error class on focus if enabled
+        if ( this.settings.focusCleanup ) {
+            if ( this.settings.unhighlight ) {
+                this.settings.unhighlight.call( this, element, this.settings.errorClass, this.settings.validClass );
+            }
+            this.hideThese( this.errorsFor( element ) );
+        }
+    },
+    /*重写校验元素焦点离开时的执行函数--移除[1.添加的帮助提示,2.校验元素的高亮显示]*/
+    onfocusout: function( element ) {
+        /*1.帮助提示信息移除*/
+        $(element).parent().children(".tip").remove();
+
+        /*2.校验元素高亮样式移除*/
+        $(element).removeClass('highlight');
+        
+        /*3.替换下面注释的原始代码，任何时候光标离开元素都触发校验功能*/
+        this.element( element );
+        
+        /*if ( !this.checkable( element ) && ( element.name in this.submitted || !this.optional( element ) ) ) {
+            this.element( element );
+        }*/
+    }
+});
+
+</script>
+	</body>
+	
+</html>

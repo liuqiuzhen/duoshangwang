@@ -1,0 +1,67 @@
+@charset "utf-8";
+.car{width:1000px;min-height: 500px;height: auto !important;margin: 0 auto;margin-top: 10px;}
+.guocheng{width:1000px;height: 35px;position: relative;margin: 10px auto 0;}
+.guocheng li{float: left;height:35px;display: block;position: absolute;}
+
+
+.guocheng .bg-a1{width:333px;height: 35px;background: url(../img/xiang/flow_chart.gif) no-repeat 0 0;}
+.guocheng .bg-b1{background: url(../img/xiang/flow_chart.gif) no-repeat 0 -35px;position: absolute;top: 0;left: 0;}
+
+.guocheng .bg-a2{width:339px;background: url(../img/xiang/flow_chart.gif) no-repeat 0px -105px;top: 0;left: 323px;}
+.guocheng .bg-b2{width:339px;background: url(../img/xiang/flow_chart.gif) no-repeat 0px -70px;top: 0;left: 323px;}
+
+.guocheng .bg-a3{width:338px;background: url(../img/xiang/flow_chart.gif) no-repeat 0px -175px;top: 0;left: 663px;}
+.guocheng .bg-b3{width:339px;background: url(../img/xiang/flow_chart.gif) no-repeat 0px -140px;top: 0;left: 663px;}
+
+.car h1{display: block;color: #6280be;height: 22px;line-height: 22px;padding-left: 15px;}
+
+.con h4{height: 30px;line-height: 30px;margin-top: 10px;padding-left: 10px;font-size: 12px;font-weight: normal;}
+.store{color: #295ad0;}
+.cars{border-top:2px solid #c8c8c8;border-bottom:2px solid #c8c8c8;border-collapse: collapse;width: 982px;text-align: center;}
+thead{height: 25px;background: #efefef;border-top:1px solid #e3e3e3;}
+tr{border-bottom:1px solid #e3e3e3;}
+tbody tr{padding: 10px 0;height: 70px;}
+.name p img{width: 65px;height:65px ;border:1px solid #cecece;float: left;margin-top: 10px;}
+.name{width:330px;padding-left: 10px;}
+.xin{width:220px;margin-left: 16px;float: left;text-align: left;height: 70px;margin-top: 10px;padding-top: 10px;}
+.xin a{color: #333333;}
+.xin a:hover{color: red;}
+.xin span{color: #b4b4b4;display: block;}
+.xiaoji{color: #fe4e13;font-size: 14px;}
+.num{padding-left: 40px;width:120px;}
+.num span{cursor:pointer;display: block;float: left;width: 10px;height: 10px;text-align: center;line-height: 10px;color: #909090;border: 1px solid #cccccc;margin:0 4px;margin-top: 6px;}
+.txts{border: 0;width:34px ;height:24px ;border: 1px solid #cccccc;float: left;text-align: center;}
+.delete{text-align: center;position: relative;}
+.delete span{cursor:pointer;background:url(../img/xiang/icoss.gif) no-repeat 0 -212px;display: block;width:44px;height:24px ;float: right;
+padding-left: 10px;color: #285E8E;position: absolute;top: 34px;left: 30px;}
+
+/*购买*/
+.goumai{height:100px;padding-top: 20px;}
+.goumai .zj{width: ;color: #79797;padding-left: 850px;margin-bottom: 10px;}
+.goumai .zj span{color: #ff4d13;font-size: 14px;}
+.g-x{padding-left: 716px;}
+
+.jixu{color: #2859cf;margin-top:6px;background:url(../img/xiang/icoss.gif) no-repeat 0 -282px;padding-left: 18px;display: block;float: left;}
+.xiadan{display: block;float: left;width:140px;height: 28px;border: 1px solid #ff8303;border-radius: 4px;
+text-align: center;line-height: 28px;margin-left: 26px;background: url(../img/xiang/car-bg.png) repeat-x;}
+.goumai .xiadan{color:#fff;}
+
+
+
+
+.delete{cursor: pointer;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

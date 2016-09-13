@@ -1,0 +1,92 @@
+@charset "utf-8";
+.top{width:1000px;height: 65px;margin: 0 auto;margin-top: 40px;}
+.content{width:1000px;height: 265px;margin: 0 auto;margin-top: 34px;}
+
+
+.con-right{width:278px;height: 226px;float: right;margin-left: 78px;border: 1px solid #e9e9e9;padding: 15px;}
+
+
+.item input{width:238px;height: 33px;border: 1px solid #cccacf;margin-bottom: 25px;padding-left: 35px;
+outline: none;box-shadow: none;background: #;}
+#name{background:#fbffbb url(../img/ren.png) no-repeat 9px 8px;}
+/*登录框*/
+#password{background:#fbffbb url(../img/mima.png) no-repeat 9px 8px;}
+
+.footer{border-top: 0;margin-top: 156px;}
+
+.item .tijiao{display:block;background: #ba0200;width: 274px;height: 31px;color: #fff;padding-left: 0;
+text-align: center;margin:20px 0;line-height: 31px;}
+.item .check{width: 10px;height: 10px;float: left;margin-bottom: 7px;margin-top: 4px;color: #808080;}
+.item span a{float: right;color:#395dbe;padding-right: 4px;}
+.item .ljzc{float: right;color: #5d5bc8;padding-right: 4px;}
+
+/*轮播图*/
+.con-left{width:420px;height: 270px;float: left;margin-left: 78px;}
+.op-lun{width:420px;height: 270px;float: left;position: relative;}
+.op-lun li{position: absolute;top: 0;left: 0;opacity: 0;filter: alpha(opacity = 0);z-index: 1;}
+
+.erro{background: url(../img/error.png) no-repeat left;padding-left: 20px;color: #b50100;display: none;}
+
+input.error{background: #ffe7e7;border: 1px solid #E6594E;}
+
+input.highlight{
+    border: 1px solid #7abd54;
+}
+
+
+
+label.error/*,label.tip*/{
+    float: right;
+    width:164px;
+    margin-right: 250px;
+    height: 32px;
+    margin-top: 0px;
+    line-height: 32px;
+    font-size: 12px;
+    text-align: left;
+    color: #ff0000;
+    padding-right: 20px;
+    padding-left: 16px;
+    background:url(../img/error.png) no-repeat left center;
+    margin-right: 70px;
+}
+
+.names.error{
+	display: none;
+}
+
+label.tip{
+    color: #aaa;
+    margin-left: 10px;
+    /*background: url(../img/right.png) no-repeat left center;*/
+}
+
+label.valid{
+ 	/*border: 1px solid #f8cbd2;*/
+ 	border: 0;
+    background: url(../img/right.png) no-repeat left center;
+    width: 200px;
+    color: #8cd500;
+    float: right;
+    margin-right: 50px;
+}
+
+label.valid input{
+	background:lightgoldenrodyellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

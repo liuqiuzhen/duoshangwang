@@ -1,0 +1,229 @@
+@charset "utf-8";
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img { margin:0; padding:0; }
+fieldset, img { border:none; }
+img{display: block;}
+address, caption, cite, code, dfn, th, var { font-style:normal; font-weight:normal; }
+ul, li { list-style:none; } 
+body { color:#666666; font:12px/20px "SimSun","微软雅黑","Arial Narrow",HELVETICA;overflow-x:hidden;min-height: 1000px;}
+a { color:#666; text-decoration:none; }
+a:visited { color:#666; }
+a:hover, a:active, a:focus { color:#d61e00;}
+.clear:after{content: ".";display: block;height: 0;overflow: hidden;clear: both;visibility: hidden;}
+
+/*小图标*/
+/*第一步：使用font-face声明字体*/
+@font-face {font-family: 'iconfont';
+    src: url('../font/iconfont.eot');  /*IE9*/
+    src: url('../font/iconfont.eot?#iefix') format('embedded-opentype'), /*IE6-IE8 */
+    url('../font/iconfont.woff') format('woff'), /*chrome、firefox */
+    url('../font/iconfont.ttf') format('truetype'),  /*chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('../font/iconfont.svg#iconfont') format('svg');  /*iOS 4.1- */
+}
+
+/*第二步：定义使用iconfont的样式*/
+.iconfont{
+    font-family:"iconfont" !important;
+    font-size:16px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;  
+}
+
+/*在线链接的小图标*/
+/*@font-face {
+  font-family: 'iconfont';
+  src: url('//at.alicdn.com/t/font_1473217905_9227667.eot'); /* IE9*/
+  /*src: url('//at.alicdn.com/t/font_1473217905_9227667.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+ /* url('//at.alicdn.com/t/font_1473217905_9227667.woff') format('woff'), /* chrome、firefox */
+  /*url('//at.alicdn.com/t/font_1473217905_9227667.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+ /* url('//at.alicdn.com/t/font_1473217905_9227667.svg#iconfont') format('svg'); /* iOS 4.1- */
+/*}*/
+                  
+                                      
+                    
+                    
+
+/*顶部小导航*/
+
+.top-nav{width:100%;height:32px;background: #f3f3f3;}
+.top-n-center{width:1220px;margin: 0 auto;height:24px;padding-top: 8px;}
+
+.top-n-left{float:left;}
+.top-n-frst{padding-left:23px;padding-right: 16px;display: block;float:left;height:20px;}
+.top-n-right{float:right;}
+.top-n-right a{padding-left: 22px;display: block;float:left;height:17px;}
+
+
+/*logo搜索*/
+
+.logo{width:1220px;height: 80px;padding-top: 27px;margin: 0 auto;}
+.logo h1{float:left}
+.hot-search{float:left;width:630px;height:66px;margin-left: 50px;}
+
+
+#searchinfo{position: relative;}
+#search_list11{width:526px;height:200px;background: #fff;position: absolute;top: 48px;
+z-index: 999999;border: 1px solid #E1E6EA;border-top: 0;display: none;}
+#search_list11 li{height: 34px;color: #000;line-height: 34px;font-size: 14px;padding-left: 20px;}
+#search_list11 li:hover{background: #EEEEEE;}
+
+
+.hot-search .list{clear: both;padding-top: 4px;z-index: 4;}
+.hot-search strong{float:left;}
+.hot-search .list li{float:left;padding-left: 10px;}
+.hot-search .list  span{padding-left: 4px;}
+
+.logo-lianjie{float:right;}
+.logo-lianjie a{float:left;padding-right:14px ;padding-left: 4px;}
+
+.txt{float: left;width:516px;box-shadow: none;outline: none;height:34px;border:3px solid #d61e00;padding-left: 10px;font-size: 12px;color: #a9a9a9;}
+
+.btn00{float:left;width:95px;height:42px;background: #d61e00;border: 0;margin-left:2px ;color:#fff;font-size: 18px;
+box-shadow: none;outline: none;}
+/*主导航*/
+.main-nav{width:100%;height:34px;border-bottom: 2px solid #b1191a;}
+
+.main-nav-center{width:1220px;height:34px;margin: 0 auto;position:relative;}
+.main-nav-center p{float:left;width:238px;height:34px;background:#b1191a;font-size: 16px;color:#fff;text-align: center;line-height: 34px;}
+.main-nav-center p i{padding-left: 14px;font-size:12px;}
+.m-nav ul{float:left;}
+.m-nav img{position:absolute;left:376px;top:-5px;}
+.m-nav li{float:left;}
+.m-nav li a{float:left;height:34px;padding: 0 16px;line-height: 34px;margin-left: 10px;color: #000000;font-size: 14px;}
+.m-nav li a:hover{background:#b1191a; color:#fff;}
+
+
+/*底部*/
+
+.footer{width:100%;height:510px;border-top:3px solid #d71e00;margin-top: 30px;}
+.f-nav{width:1200px;height:150px;margin: 0 auto;padding-left: 20px;}
+.f-nav li{float:left;padding: 0px 80px 0 40px;margin-top:50px;border-right:1px solid #cccccc ;}
+.footer-main-nav{width:100%;height:152px;border-top:1px solid #ccc;border-bottom:1px solid #ccc ;}
+.f-center{width:1220px;height:152px;padding:24px 0 0 44px;margin: 0 auto;}
+.f-center dl{float:left;padding:0 0px;height:92px;border-right:1px solid #dedede;}
+.f-center dt{font-size:12px ;color: #000;padding-left: 40px;}
+.f-center ul{padding-left:30px;padding-right: 6px;margin-top: 5px;}
+.item_1{width:156px;}
+.item_2{width:146px;}
+.item_3{width:134px;}
+.item_4{width:170px;}
+.item_5{width:180px;}
+.item_6{width:136px;}
+.f-center ul li{margin-top:4px;}
+.f-center ul li a{color: #999999;}
+.item_4 ul{padding-right:20px;}
+
+.footer-bottom{width:520px;height:160px;margin: 0 auto;margin-top: 30px;}
+.footer-bottom p{text-align: center;width:520px;margin-top: 5px;}
+.footer-bottom p a{padding :0 4px;}
+.footer-bottom p img{padding-left: 50px;}
+.footer-bottom .lian{padding-top: 10px;}
+
+
+/*自动弹出的小图片*/
+.box{width:400px;height:200px;position: fixed;bottom:10px;right:0;}
+.box span{float: right;font-size: 24px;color: #fff;padding:4px;position: absolute;right:4px;top:4px;cursor: pointer;}
+
+/*qq在线咨询*/
+
+.qqzixun{width:160px;height:430px;border:6px solid #fd3b3c;position:fixed;z-index:6;top:20%;right:-172px;border-radius: 10px;background: #fe3c3c;}
+.butt{width:30px;height:100px;background: #fe3c3c url(../img/qq1.png) no-repeat 6px 5px;position: absolute;left:-46px;top:150px;
+border-top-left-radius: 8px;border-bottom-left-radius: 8px;font-size: 16px;color: #fff;padding-left:10px;padding-top: 34px;z-index: -1;}
+.kefu{width:160px;height:200px;background: #fff;border-radius: 10px;}
+.kefu ul{width:138px;height:156px;margin: 0 auto;}
+.kefu p{width:138px;height:32px;text-align: center;line-height: 32px;color: #ff464b;border-bottom: 1px solid #ddaaaf;font-weight: 600;font-size: 14px;}
+.shouhou{width:120px;height:24px;background: url(../img/bd-color.png) repeat-x ;text-align: center;line-height: 24px;
+margin-top: 10px;margin-bottom: 3px;border: 1px solid #dfa9a7;border-radius: 10px;position: relative;margin-left: 10px;}
+.shouhou a{width:120px;height:24px;display: block;color: #7d1418;}
+.shouhou a img{position: absolute;top:-3px;left:-4px;}
+.liuyan{width:160px;height:44px;border-top: 1px solid #ddaaaf;}
+.liuyan a{background: url(../img/liuyan.png) no-repeat;width:122px;height: 44px;display: block;margin: 4px 0 0 18px;}
+
+
+.weixin{width:160px;height:165px;background:#fff url(../img/weixin.png) no-repeat 16px 8px;border-radius: 10px;margin-top: 8px;}
+.pho{width:160px;height:50px;background:#fff url(../img/pho.png) no-repeat 16px 10px;border-radius: 10px;margin-top: 8px;}
+
+
+
+
+/*回到顶部*/
+.h-top{width:60px;height: 60px;border: 1px solid #E4E4E4;position: fixed;bottom: 20px;right: 4px;text-align: center;line-height: 60px;}
+.h-top .iconfont{font-size: 28px;color: #989898;}
+.h-top:hover{background: #fb083b;}
+.h-top:hover .iconfont{color: #fff;}
+
+
+
+/*左导航*/
+/*banner区域*/
+
+.banner{width:1220px;height:510px;margin:0 auto;}
+
+.left-nav1{width:238px;height:510px;background: #222222;float:left;}
+
+.left-nav1 {width:238px;height:510px;color:#ffffff;position: relative;z-index: 10;}
+.left-nav1 ul h2{width:238px;height:50px;font-weight: normal;padding-top: 10px;}
+.left-nav1 ul h2 a{color: #fff;font-size: 12px;}
+.left-nav1 ul .title{width:206px;margin: 0 auto;}
+.left-nav1 ul .title i{font-size: 20px;padding-right: 8px;}
+.left-nav1 ul .title span{float:right;font-size: 10px;}
+.left-nav1 ul h2 .list{border-bottom: 1px dotted #d6d6d6;width:206px;margin: 0 auto;padding-bottom: 5px;}
+.left-nav1 ul .list a{padding-right: 6px;}
+.left-nav ul li a:hover{color:#D61E00}
+
+.left-nav1 ul h2.active{background: #fff;width:240px;}
+.left-nav1 ul h2.active .title a{color:#D61E00}
+.left-nav1 ul h2.active .list a{color: #000000;}
+.left-nav1 ul h2.active .list a:hover{color: #D61E00;}
+
+/*鼠标划过时显示的元素*/
+.left-nav1 ul h2 .list01{width:724px;height:510px;padding-left:20px;background: #fff;color:#666;position:absolute;top:0px;left:238px;border:2px solid #B1191A;border-top:0;display: none;border-left:2px solid #B1191A;z-index:-1;}
+.list01 ul{width:490px;height:500px;float:left;padding-top:10px;}
+.list01  ul li{height:80px;border-top:1px dotted #ebebeb;}
+.list01 ul li h3{color:#b43218;padding-top: 12px;}
+.list01 ul li a{color:#666;padding-right:12px;margin-top: 6px;display: block;float: left;}
+.pics{width:202px;height:506px;float:right;margin-top: 2px;overflow: hidden;}
+
+
+
+/*上架蓝*/
+.sjl{width:60px;height: 50px;text-align:center;padding-top:10px;position: fixed;border: 1px solid #e0e0e0;background: #f8f8f8;bottom: 80px;right: 4px;}
+.sjl i{font-size: 24px;color: 808080;}
+.sjl span{display: block;width:12px;height: 12px;text-align:center;color:#fff;line-height:12px;border-radius: 50%;position: absolute;background: #d71e00;left: 34px;top: 6px;}
+
+
+/*消息*/
+.xiaoxi{background: url(../img/xiao.png) no-repeat 12px 6px ;display: none;width:48px;
+height:28px;padding-left: 27px;float: right;position: relative;z-index: 88;}
+.xiaoxi .iconfont{font-size: 10px;padding-left: 6px;}
+.xinxi{width:292px;min-height:170px ;height: auto !important;height: 170px;background: #fff url(../img/kong.png) no-repeat center;
+position: absolute;top: 24px;left: 0;box-shadow: 4px 4px 8px #DDD;z-index: -1;display: none;}
+.xiaoxi:hover{background:#fff url(../img/xiao.png) no-repeat 12px 6px ;}
+.xiaoxi:hover .xinxi{display: block;}
+.xiaoxi:hover .iconfont{transform: rotateY(90);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

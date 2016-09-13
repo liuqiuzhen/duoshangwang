@@ -1,0 +1,608 @@
+[
+	{
+		"id":"2675367","img":"images/007.jpg","size":["均码"],"leibie":["浅蓝色","粉红色"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8097","price":"130.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"images/007s1.jpg"},{"img":"images/007s2.jpg"},{"img":"images/007s3.jpg"},
+		{"img":"images/007s4.jpg"},{"img":"images/007s5.jpg"}],
+		"dig":[{"img":"images/007b1.jpg"},{"img":"images/007b2.jpg"},{"img":"images/007b3.jpg"},
+		{"img":"images/007b4.jpg"},{"img":"images/007b5.jpg"}],
+		"picList":[{"img":"images/007b1.jpg"},{"img":"images/007b2.jpg"},{"img":"images/007b3.jpg"},
+		{"img":"images/007b4.jpg"},{"img":"images/007b5.jpg"}]
+	},
+	{
+		"id":"2675368","img":"images/008.jpg","size":["M","S","L","XL","XXL"],"leibie":["白色","黑色"],
+		"title":"金丽都 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"99.98","jyls":"55.00","store":"金丽都",
+		"small":[{"img":"images/008s1.jpg"},{"img":"images/008s2.jpg"},{"img":"images/008s3.jpg"},
+		{"img":"images/008s4.jpg"},{"img":"images/008s5.jpg"}],
+		"dig":[{"img":"images/008b1.jpg"},{"img":"images/008b2.jpg"},{"img":"images/008b3.jpg"},
+		{"img":"images/008b4.jpg"},{"img":"images/008b5.jpg"}],
+		"picList":[{"img":"images/008b1.jpg"},{"img":"images/008b2.jpg"},{"img":"images/008b3.jpg"},
+		{"img":"images/008b4.jpg"},{"img":"images/008b5.jpg"}]
+	},
+	{
+		"id":"2675369","img":"images/003.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"星月服饰 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"120.98","jyls":"55.00","store":"星月服饰",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753610","img":"images/004.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"星月服饰 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"46.98","jyls":"55.00","store":"星月服饰",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753611","img":"images/005.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"星月服饰 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"55.98","jyls":"55.00","store":"星月服饰",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753612","img":"images/006.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"66.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753613","img":"images/007.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"星月服饰 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"88.98","jyls":"55.00","store":"星月服饰",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753614","img":"images/008.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"99.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753615","img":"images/009.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"星月服饰 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"100.98","jyls":"55.00","store":"星月服饰",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753616","img":"images/010.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"45.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753617","img":"images/011.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"67.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753618","img":"images/012.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"金丽都 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"444.98","jyls":"55.00","store":"金丽都",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753619","img":"images/013.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753620","img":"images/008.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"330.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753621","img":"images/010.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"金丽都 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"200.98","jyls":"55.00","store":"金丽都",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},{
+		"id":"26753622","img":"images/001.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753623","img":"images/002.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"金丽都 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"金丽都",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753624","img":"images/003.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],"leibie":["浅蓝色","粉红色"],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536125","img":"images/004.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536126","img":"images/005.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536127","img":"images/006.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536128","img":"images/007.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536129","img":"images/001.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536130","img":"images/002.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536131","img":"images/003.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536132","img":"images/004.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536133","img":"images/005.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536134","img":"images/006.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536135","img":"images/007.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536136","img":"images/008.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536137","img":"images/009.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536138","img":"images/010.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536139","img":"images/011.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536140","img":"images/012.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536141","img":"images/013.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536142","img":"images/008.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536143","img":"images/010.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},{
+		"id":"26753144","img":"images/001.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753145","img":"images/014.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753146","img":"images/015.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753147","img":"images/016.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"26753148","img":"images/018.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536149","img":"images/017.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},{
+		"id":"267536150","img":"images/009.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536151","img":"images/010.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536152","img":"images/011.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536153","img":"images/012.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536154","img":"images/013.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536155","img":"images/008.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536156","img":"images/010.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"38.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},{
+		"id":"267536157","img":"images/001.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536158","img":"images/014.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"39.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],"leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536159","img":"images/015.jpg","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536160","img":"images/016.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536161","img":"images/018.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536162","img":"images/017.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536163","img":"images/016.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536164","img":"images/018.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536165","img":"images/017.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536166","img":"images/018.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	},
+	{
+		"id":"267536167","img":"images/017.jpg","remai":"remai","leibie":["浅蓝色","粉红色"],"size":["M","S","L","XL","XXL"],
+		"title":"女人志 2016秋冬新款学院风宽松毛衣 +针织百搭半身裙毛衣套装 8025","price":"56.98","jyls":"55.00","store":"女人志",
+		"small":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"dig":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}],
+		"picList":[{"img":"img/xiang/bo01.jpg"},{"img":"img/xiang/bo02.jpg"},{"img":"img/xiang/bo03.jpg"},
+		{"img":"img/xiang/bo04.jpg"},{"img":"img/xiang/bo03.jpg"}]
+	}
+]
